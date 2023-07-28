@@ -1,6 +1,6 @@
 package io.github.eirikh1996.movecraftelevators;
 
-import io.github.eirikh1996.movecraftelevators.config.Settings;
+import io.github.eirikh1996.movecraftelevators.config.Manager;
 import net.countercraft.movecraft.Movecraft;
 import net.countercraft.movecraft.craft.CraftManager;
 import org.bukkit.plugin.Plugin;
@@ -32,9 +32,10 @@ public class MovecraftElevators extends JavaPlugin {
                 getLogger().warning(entry + " is not a valid elevator craft");
                 continue;
             }
-            Settings.ElevatorCrafts.add(foundType);
+            Manager.ElevatorCrafts.add(foundType);
 
         }
+
     }
 
     @Override

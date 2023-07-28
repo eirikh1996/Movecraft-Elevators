@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="647135a0-5f34-4b3c-8ea8-d81674380d75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/MovecraftElevators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/config/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/craft/ElevatorCraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/sign/FloorSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/sign/PlatformSign.java" afterDir="false" />
+    <list default="true" id="647135a0-5f34-4b3c-8ea8-d81674380d75" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/MovecraftElevators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/MovecraftElevators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/config/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/config/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/sign/FloorSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/sign/FloorSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/sign/PlatformSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eirikh1996/movecraftelevators/sign/PlatformSign.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +59,17 @@
       <option name="presentableId" value="Default" />
       <updated>1673135841502</updated>
     </task>
+    <task id="LOCAL−00001" summary="initial commit">
+      <created>1673828211319</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1673828211319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
